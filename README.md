@@ -1,4 +1,4 @@
-# Snowflake Terraform Provider
+# Snowflake Terraform Provider - test
 
 [![Unit tests](https://github.com/snowflakedb/terraform-provider-snowflake/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/snowflakedb/terraform-provider-snowflake/actions/workflows/unit-tests.yml)
 [![Latest release](https://img.shields.io/github/v/release/snowflakedb/terraform-provider-snowflake)](https://github.com/snowflakedb/terraform-provider-snowflake/releases/latest)
